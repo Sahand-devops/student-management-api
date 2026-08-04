@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project is a Python-based student management console application created by Grupp 4: Furkan, Simon, Sahand, Shilan, Sayna, and Wadad.
-
 The application fetches student data from an external API and provides a simple command-line interface for:
 - logging in with a fixed username and password
 - displaying a full class list with contact details
