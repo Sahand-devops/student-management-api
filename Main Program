@@ -1,5 +1,4 @@
 #Importera bibliotek
-#Grupp 4 - Furkan, Simon, Sahand, Shilan, Sayna,  Wadad
 
 import requests  #Den hämtar in info genom API
 import json  #Den hanterar json formatet
